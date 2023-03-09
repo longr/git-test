@@ -1,4 +1,4 @@
 # git-test
 Test repo for git course learning
 
-Add line in Main branch
+New function has been added to non existant code
